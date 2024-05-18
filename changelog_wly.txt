@@ -1,0 +1,19 @@
+💯 Kernel 5.10.205 gki with kernelSU (updated)
+💯 updated all the sources to the latest version
+💯 fixed freezing issues
+💯 better ram management and heating 
+💯 added oplus gallery
+💯 added oneui variant of google messages
+💯 added higher play integrity passing by default
+💯 added OTA SUPPORT
+💯 rom is smother now
+💯 included oplus camera
+💯 included oplus gallery
+💯 included sg gcam
+💯 included Viper 4 android
+💯 included moto Dolby
+💯 included PIF
+💯 included OTA support
+💯 Gapps only
+
+by Arman-ATI
