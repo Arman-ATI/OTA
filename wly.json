@@ -17,12 +17,12 @@
 			"firmware": "",
 			"modem": "",
 			"bootloader": "",
-			"recovery": "",
-			"paypal": "",
-			"telegram": "https://t.me/Machad3xROMS",
-			"dt": "",
-			"common-dt": "",
-			"kernel": ""
+			"recovery": "https://sourceforge.net/projects/oneplus-10-pro/files/rising/op/2024-5-18/recovery.img/download",
+			"paypal": "https://telegra.ph/Builds-Support-05-01",
+			"telegram": "https://t.me/Arman_ATI",
+			"dt": "https://github.com/ATI-labs/android_device_oneplus_wly",
+			"common-dt": "https://github.com/ATI-labs/android_device_oneplus_sm8450-common",
+			"kernel": "https://github.com/Machad3x/android_kernel_oneplus_sm8450"
 		}
 	]
 }
