@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "Arman-ATI",
+			"oem": "Realme",
+			"device": "ferrarri",
+			"filename": "RisingOS-3.0-RELEASE-20240518-GAPPS-COMMUNITY-ferrarri-ota.zip",
+			"download": "https://sourceforge.net/projects/oneplus-10-pro/files/rising/gt/2024-5-18/RisingOS-3.0-RELEASE-20240518-GAPPS-COMMUNITY-ferrarri-ota.zip/download",
+			"timestamp": 1716033814,
+			"md5": "a2547f823fccbaa59a6eff2307d65c66",
+			"sha256": "5ab06cf08e1cf1dc335b970d32009859dc300a795c683857f61bf2b38d98eacb",
+			"size": 3442475624,
+			"version": "3.0-Janus",
+			"buildtype": "RELEASE",
+			"forum": "https://t.me/Machad3xROMS",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://sourceforge.net/projects/oneplus-10-pro/files/rising/gt/2024-5-18/recovery.img/download",
+			"paypal": "https://telegra.ph/Builds-Support-05-01",
+			"telegram": "https://t.me/Arman_ATI",
+			"dt": "https://github.com/ATI-labs/android_device_realme_ferrarri",
+			"common-dt": "https://github.com/ATI-labs/android_device_oneplus_sm8450-common",
+			"kernel": "https://github.com/Machad3x/android_kernel_oneplus_sm8450"
+		}
+	]
+}
