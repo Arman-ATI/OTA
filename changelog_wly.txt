@@ -1,14 +1,10 @@
-💯 Kernel 5.10.205 gki with kernelSU (updated)
-💯 updated all the sources to the latest version
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Oneplus 10 pro (wly)
+Device maintainer: Arman-ATI
 
-💯 rom is smother now
-💯 included oplus camera
-💯 included oplus gallery
-💯 included sg gcam
-💯 included Viper 4 android
-💯 included moto Dolby
-💯 included PIF
-💯 included OTA support
-💯 Gapps only
-
-by Arman-ATI
+====================
+     23-05-2024
+====================
+- Initial Unofficial Build
+- Kernel 5.10.205 gki with kernelSU (updated)
